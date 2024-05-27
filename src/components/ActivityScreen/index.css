@@ -1,0 +1,66 @@
+.unordered-list {
+  display: flex;
+  width: 50%;
+  flex-wrap: wrap;
+}
+
+.flexing-of-both-blue-pink {
+  display: flex;
+}
+
+.flexing-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.flexing-of-two-images {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.margin-to-ok {
+  margin-top: 20px;
+}
+
+.success-message {
+  font-family: 'Roboto';
+  color: green;
+}
+
+.failure-message {
+  font-family: 'Roboto';
+  color: red;
+}
+
+.line-height {
+  height: 30px;
+}
+
+.banana-size1 {
+  height: 55px;
+}
+
+.flexing-three {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.margin-top-line-bar {
+  margin-top: 20px;
+  margin-left: 150px;
+}
+
+.full-success-message {
+  font-family: 'Roboto';
+  color: 'Yellow';
+}
+
+.Into-Screen-Background-Image1 {
+  background-image: url('https://i.im.ge/2024/05/24/KqUq98.image-5background-image.png');
+  background-size: cover;
+  width: auto;
+  padding: 10px;
+  height: auto;
+}

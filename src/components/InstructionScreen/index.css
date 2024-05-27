@@ -1,0 +1,92 @@
+.Progressbar {
+  width: 30%;
+  height: 30px;
+  background-color: white;
+  margin-left: 300px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.display-progressbar {
+  display: flex;
+}
+
+.back-button {
+  margin-top: 30px;
+}
+
+.flexing-card-items {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.each-card-item {
+  height: 60vh;
+  width: 20%;
+  border-radius: 10px;
+  border-width: 0px;
+  background-color: white;
+}
+
+.size-of-both {
+  padding-right: 55px;
+}
+
+.flexing-cards {
+  display: flex;
+}
+
+.one-button {
+  height: 50px;
+  width: 50px;
+  background: #ffbc0b;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 10px;
+}
+
+.second-button {
+  height: 50px;
+  width: 50px;
+  background: #a6cd25;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 10px;
+}
+
+.margin-left-cards {
+  margin-left: 10px;
+}
+
+.third-image-size {
+  height: 250px;
+}
+
+.third-button {
+  height: 50px;
+  width: 50px;
+  background: #fb993d;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 10px;
+}
+
+.card-heading {
+  color: #11aec6;
+}
+
+.card-paragraph {
+  color: #a6c930;
+  font-weight: bold;
+}
+
+.play-button {
+  height: 32px;
+  width: 100px;
+  border-width: 0px;
+  text-align: center;
+  margin-top: 400px;
+  background: #ffcf25;
+  color: #ffffff;
+  border-radius: 10px;
+}

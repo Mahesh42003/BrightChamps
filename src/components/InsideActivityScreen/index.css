@@ -1,0 +1,23 @@
+.each-list {
+  width: 28%;
+  list-style-type: none;
+}
+
+.size-of-fruit {
+  height: 200px;
+  width: 150px;
+}
+
+.background-of-fruit {
+  width: 170px;
+  height: 210px;
+  top: 252px;
+  left: 539px;
+  gap: 0px;
+  opacity: 0px;
+  background: #ff896f;
+  border-radius: 10px;
+  margin-top: 25px;
+  margin-left: 20px;
+  padding: 5px;
+}

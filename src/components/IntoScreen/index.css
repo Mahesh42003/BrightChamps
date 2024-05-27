@@ -1,0 +1,47 @@
+.Into-Screen-Background-Image {
+  background-image: url('https://i.im.ge/2024/05/24/KqUq98.image-5background-image.png');
+  background-size: cover;
+  width: auto;
+  padding: 10px;
+  height: 100vh;
+}
+
+.Welcome-kiddo {
+  background-image: url('https://i.im.ge/2024/05/25/KalpJM.Group-149Welcome-Kiddo.png');
+  height: 20vh;
+  background-size: cover;
+  width: 20%;
+  margin-left: 750px;
+  text-align: center;
+}
+
+.heading-welcome-kiddo {
+  padding: 25px;
+  color: #11aec6;
+}
+
+.cat-image-size {
+  height: 77vh;
+  margin-left: 400px;
+}
+
+.start-button {
+  height: 13vh;
+}
+
+.margin-left-settings {
+  margin-left: 20px;
+}
+
+.banana-size {
+  height: 55px;
+  margin-left: 395px;
+}
+
+.backplusprogress {
+  display: flex;
+}
+
+.size-of-blue {
+  margin-left: 30px;
+}
